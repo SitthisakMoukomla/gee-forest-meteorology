@@ -34,12 +34,12 @@ Workshop สอนการใช้ **Google Earth Engine (GEE) Python API** �
 
 | # | ไฟล์ | หัวข้อ | Open in Colab |
 |---|------|--------|---------------|
-| 1 | [`01_Meteorology_GEE.ipynb`](01_Meteorology_GEE.ipynb) | 🌦️ อุตุนิยมวิทยา (Meteorology) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/01_Meteorology_GEE.ipynb) |
-| 2 | [`02_Hydrology_GEE.ipynb`](02_Hydrology_GEE.ipynb) | 💧 อุทกวิทยา (Hydrology) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/02_Hydrology_GEE.ipynb) |
-| 3 | [`03_Wildfire_GEE.ipynb`](03_Wildfire_GEE.ipynb) | 🔥 ไฟป่า (Wildfire) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/03_Wildfire_GEE.ipynb) |
-| 4 | [`04_WaterQuality_GEE.ipynb`](04_WaterQuality_GEE.ipynb) | 🌊 คุณภาพน้ำ (Water Quality) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/04_WaterQuality_GEE.ipynb) |
+| 1 | [`01_Meteorology_GEE.ipynb`](01_Meteorology_GEE.ipynb) | 🌦️ อุตุนิยมวิทยา (Meteorology) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SitthisakMoukomla/gee-forest-meteorology/blob/main/01_Meteorology_GEE.ipynb) |
+| 2 | [`02_Hydrology_GEE.ipynb`](02_Hydrology_GEE.ipynb) | 💧 อุทกวิทยา (Hydrology) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SitthisakMoukomla/gee-forest-meteorology/blob/main/02_Hydrology_GEE.ipynb) |
+| 3 | [`03_Wildfire_GEE.ipynb`](03_Wildfire_GEE.ipynb) | 🔥 ไฟป่า (Wildfire) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SitthisakMoukomla/gee-forest-meteorology/blob/main/03_Wildfire_GEE.ipynb) |
+| 4 | [`04_WaterQuality_GEE.ipynb`](04_WaterQuality_GEE.ipynb) | 🌊 คุณภาพน้ำ (Water Quality) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SitthisakMoukomla/gee-forest-meteorology/blob/main/04_WaterQuality_GEE.ipynb) |
 
-> ⚠️ **หมายเหตุ:** เปลี่ยน `YOUR-USERNAME/YOUR-REPO` เป็นชื่อ GitHub repository ของคุณเพื่อให้ปุ่ม Open in Colab ใช้งานได้
+> 💡 Colab badge จะเปิด Notebook โดยตรงจาก GitHub repo `SitthisakMoukomla/gee-forest-meteorology`
 
 ---
 
